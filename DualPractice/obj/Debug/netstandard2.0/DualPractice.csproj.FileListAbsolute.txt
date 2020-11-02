@@ -1,0 +1,14 @@
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/DualPractice.csprojAssemblyReference.cache
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/DualPractice.AssemblyInfoInputs.cache
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/DualPractice.AssemblyInfo.cs
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/DualPractice.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/DualPractice.dll
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/ref/DualPractice.dll
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/DualPractice.pdb
+/Users/dmn/Projects/DualPractice/DualPractice/bin/Debug/netstandard2.0/DualPractice.deps.json
+/Users/dmn/Projects/DualPractice/DualPractice/bin/Debug/netstandard2.0/DualPractice.dll
+/Users/dmn/Projects/DualPractice/DualPractice/bin/Debug/netstandard2.0/ref/DualPractice.dll
+/Users/dmn/Projects/DualPractice/DualPractice/bin/Debug/netstandard2.0/DualPractice.pdb
+/Users/dmn/Projects/DualPractice/DualPractice/obj/Debug/netstandard2.0/XamlC.stamp

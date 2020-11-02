@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E1554E99-CDF1-43ED-BBAF-E14D7818EA8E}|Default">
+  <MonoDevelop.Ide.ItemProperties.DualPractice.Android PreferredExecutionTarget="Android.emulator-5578" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DualPractice/MainPage.xaml.cs">
+    <Files>
+      <File FileName="DualPractice/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="DualPractice.Android/MainActivity.cs" />
+      <File FileName="DualPractice/MainPage.xaml" />
+      <File FileName="DualPractice/MainPage.xaml.cs" Line="39" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DualPractice" expanded="True">
+            <Node name="DualPractice" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DualPractice.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

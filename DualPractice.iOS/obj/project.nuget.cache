@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UduNKNygOxCGeJG/qt0kFOSPExf8FXDAYTICrCjQU48f6YfaM1qUq+cAPARag1ZUNhQw+74zZ+MgHkTJSXer4Q==",
+  "success": true,
+  "projectFilePath": "/Users/dmn/Projects/DualPractice/DualPractice.iOS/DualPractice.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
